@@ -1,4 +1,3 @@
-# striver-a2z-sheet
 <div align="center">
 
 # ☕ Java DSA Mastery
@@ -20,28 +19,28 @@
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | [Arrays](#01-arrays) | ✅ Complete |
-| 02 | [Binary Search](#02-binary-search) | ✅ Complete |
-| 03 | [Strings](#03-strings) | ✅ Complete |
-| 04 | [Linked List](#04-linked-list) | ✅ Complete |
-| 05 | [Recursion](#05-recursion) | ✅ Complete |
-| 06 | [Bit Manipulation](#06-bit-manipulation) | ✅ Complete |
-| 07 | [Stack and Queues](#07-stack-and-queues) | ✅ Complete |
-| 08 | [Sliding Window](#08-sliding-window) | ✅ Complete |
-| 09 | [Heaps](#09-heaps) | ✅ Complete |
-| 10 | [Greedy Approach](#10-greedy-approach) | ✅ Complete |
-| 11 | [Binary Trees](#11-binary-trees) | ✅ Complete |
-| 12 | [Binary Search Trees](#12-binary-search-trees) | ✅ Complete |
-| 13 | [Graphs](#13-graphs) | ✅ Complete |
-| 14 | [Dynamic Programming](#14-dynamic-programming) | ✅ Complete |
-| 15 | [Tries](#15-tries) | ✅ Complete |
-| 16 | [Strings (Hard)](#16-strings-hard) | ✅ Complete |
+| 1 | [Arrays](#arrays) | ✅ Complete |
+| 2 | [Binary Search](#binary-search) | ✅ Complete |
+| 3 | [Strings](#strings) | ✅ Complete |
+| 4 | [Linked List](#linked-list) | ✅ Complete |
+| 5 | [Recursion](#recursion) | ✅ Complete |
+| 6 | [Bit Manipulation](#bit-manipulation) | ✅ Complete |
+| 7 | [Stack and Queues](#stack-and-queues) | ✅ Complete |
+| 8 | [Sliding Window](#sliding-window) | ✅ Complete |
+| 9 | [Heaps](#heaps) | ✅ Complete |
+| 10 | [Greedy Approach](#greedy-approach) | ✅ Complete |
+| 11 | [Binary Trees](#binary-trees) | ✅ Complete |
+| 12 | [Binary Search Trees](#binary-search-trees) | ✅ Complete |
+| 13 | [Graphs](#graphs) | ✅ Complete |
+| 14 | [Dynamic Programming](#dynamic-programming) | ✅ Complete |
+| 15 | [Tries](#tries) | ✅ Complete |
+| 16 | [Strings (Hard)](#strings-hard) | ✅ Complete |
 
 ---
 
 ## 📂 Topic Breakdown
 
-### 01. Arrays
+### Arrays
 > Foundation of DSA — master the basics of indexing, traversal, sorting, and searching.
 
 - Kadane's Algorithm, Two Pointer, Dutch National Flag
@@ -50,7 +49,7 @@
 
 ---
 
-### 02. Binary Search
+### Binary Search
 > Think logarithmically. Solve problems in O(log n).
 
 - Classic Binary Search
@@ -59,7 +58,7 @@
 
 ---
 
-### 03. Strings
+### Strings
 > Patterns, parsing, and string manipulation techniques.
 
 - Palindromes, Anagrams, Subsequences
@@ -68,7 +67,7 @@
 
 ---
 
-### 04. Linked List
+### Linked List
 > Pointers and dynamic memory — fundamental for system design.
 
 - Singly & Doubly Linked Lists
@@ -77,7 +76,7 @@
 
 ---
 
-### 05. Recursion
+### Recursion
 > The art of thinking recursively and building toward backtracking.
 
 - Factorial, Fibonacci
@@ -86,7 +85,7 @@
 
 ---
 
-### 06. Bit Manipulation
+### Bit Manipulation
 > Trick the compiler. Optimize with bits.
 
 - XOR tricks, Power of 2 checks
@@ -95,7 +94,7 @@
 
 ---
 
-### 07. Stack and Queues
+### Stack and Queues
 > LIFO and FIFO — understand when to use which.
 
 - Monotonic Stack
@@ -104,7 +103,7 @@
 
 ---
 
-### 08. Sliding Window
+### Sliding Window
 > Efficient subarray/substring problems in O(n).
 
 - Fixed-size & Variable-size windows
@@ -113,7 +112,7 @@
 
 ---
 
-### 09. Heaps
+### Heaps
 > Priority-based problems made easy.
 
 - Min Heap / Max Heap
@@ -122,7 +121,7 @@
 
 ---
 
-### 10. Greedy Approach
+### Greedy Approach
 > Make the locally optimal choice at each step.
 
 - Activity Selection, Job Scheduling
@@ -131,7 +130,7 @@
 
 ---
 
-### 11. Binary Trees
+### Binary Trees
 > The cornerstone of hierarchical data.
 
 - Traversals (Inorder, Preorder, Postorder, Level Order)
@@ -140,7 +139,7 @@
 
 ---
 
-### 12. Binary Search Trees
+### Binary Search Trees
 > Ordered trees for fast search, insert, and delete.
 
 - Validate BST
@@ -149,7 +148,7 @@
 
 ---
 
-### 13. Graphs
+### Graphs
 > Model real-world networks and relationships.
 
 - BFS, DFS
@@ -158,7 +157,7 @@
 
 ---
 
-### 14. Dynamic Programming
+### Dynamic Programming
 > Break problems into overlapping subproblems.
 
 - 1D DP: Climbing Stairs, House Robber
@@ -167,7 +166,7 @@
 
 ---
 
-### 15. Tries
+### Tries
 > Efficient prefix-based string storage and search.
 
 - Insert, Search, StartsWith
@@ -176,7 +175,7 @@
 
 ---
 
-### 16. Strings (Hard)
+### Strings Hard
 > Advanced string challenges for competitive programming.
 
 - Rabin-Karp, Z-Algorithm
@@ -194,7 +193,7 @@ Make sure you have **Java 11+** installed.
 git clone https://github.com/PARAS-SHARMA-77654/java-dsa.git
 
 # Navigate to a topic
-cd java-dsa/01.Arrays
+cd java-dsa/Arrays
 
 # Compile a file
 javac TwoSum.java
@@ -255,3 +254,4 @@ Pull requests are welcome! If you'd like to add solutions, improve existing code
 *Happy Coding!* ☕🚀
 
 </div>
+
